@@ -4,7 +4,12 @@
 
 <hr>
 
-![Pixels GIF by Paul Robertson - Find   Share on GIPHY](https://github.com/user-attachments/assets/bc6f23c7-c62a-4fb2-8f2d-96915af82e3c)
+![download (9)](https://github.com/user-attachments/assets/07876acc-dbfb-49a6-855f-71fa356de869)
+
+
+
+
+
 
 ## 📌About Me:
 🔭 Undergraduate at R.M.D Engineering College <br/>
@@ -27,16 +32,23 @@
 <hr>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vishmitha2406&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishmitha2406&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=vishmitha2406&theme=outrun&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishmitha2406&theme=outrun&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <hr>
 
  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vishmitha2406&icon=9&color=5)](https://visitcount.itsvg.in)
+
+
+
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
