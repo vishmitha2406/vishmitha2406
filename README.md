@@ -15,14 +15,7 @@
 🔭 Undergraduate at R.M.D Engineering College <br/>
 🌱 B.Tech Computer Science and Business Systems <br/>
 📡 Machiene Learning enthusiast <br/>
-
-<hr>
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishmitha-g-r-25ba96332/) <br/>
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/vishmitha2406) <br/>
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/_vishmitha_gr_/) 
+ 
 
 <hr>
 
@@ -44,6 +37,12 @@
 [![](https://visitcount.itsvg.in/api?id=vishmitha2406&icon=9&color=5)](https://visitcount.itsvg.in)
 
 
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishmitha-g-r-25ba96332/) <br/>
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/vishmitha2406) <br/>
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/_vishmitha_gr_/) 
 
 
 
