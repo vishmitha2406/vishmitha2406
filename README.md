@@ -1,4 +1,7 @@
-# Hi, I'm Vishmitha👋
+# ![Hi-I-m-Vishmitha-3-19-2026 (3)](https://github.com/user-attachments/assets/46d5adea-3601-4745-af02-a5cacba90fb5)
+
+
+
 
 ✨Passionate programmer | 🪄Eager to learn new skills
 
@@ -25,13 +28,13 @@
 <hr>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vishmitha2406&theme=outrun&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishmitha2406&theme=outrun&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=vishmitha2406&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishmitha2406&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <hr>
 
  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vishmitha2406&icon=9&color=5)](https://visitcount.itsvg.in)
