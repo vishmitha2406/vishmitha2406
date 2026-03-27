@@ -1,13 +1,14 @@
-# ![Hi-I-m-Vishmitha-3-19-2026 (3)](https://github.com/user-attachments/assets/46d5adea-3601-4745-af02-a5cacba90fb5)
 
 
+# <img src="https://github.com/user-attachments/assets/46d5adea-3601-4745-af02-a5cacba90fb5" width=300px height=300px />
 
 
 ✨Passionate programmer | 🪄Eager to learn new skills
 
 <hr>
+<img src="https://github.com/user-attachments/assets/07876acc-dbfb-49a6-855f-71fa356de869" width=1000px height=300px/>
 
-![download (9)](https://github.com/user-attachments/assets/07876acc-dbfb-49a6-855f-71fa356de869)
+<!-- /*![download (9)](https://github.com/user-attachments/assets/07876acc-dbfb-49a6-855f-71fa356de869)*/ -->
 
 
 
