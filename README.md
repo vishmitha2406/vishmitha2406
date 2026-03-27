@@ -6,7 +6,7 @@
 ✨Passionate programmer | 🪄Eager to learn new skills
 
 <hr>
-<img src="https://github.com/user-attachments/assets/07876acc-dbfb-49a6-855f-71fa356de869" width=800 height=200 />
+<img src="https://github.com/user-attachments/assets/07876acc-dbfb-49a6-855f-71fa356de869" width=650 height=150 />
 
 <!-- /*![download (9)](https://github.com/user-attachments/assets/07876acc-dbfb-49a6-855f-71fa356de869)*/ -->
 
